@@ -2,7 +2,7 @@ class Nolgia < Formula
   desc "CLI for the Nolgia generative media platform (image, audio, video)"
   homepage "https://nolgia.ai"
   version "0.1.1"
-  license "MIT OR Apache-2.0"
+  license "MIT"
 
   on_macos do
     url "https://github.com/nolgiacorp/nolgia-cli/releases/download/v#{version}/nolgia-x86_64-apple-darwin"
